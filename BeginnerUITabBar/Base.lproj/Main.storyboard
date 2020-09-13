@@ -127,7 +127,7 @@
         <scene sceneID="ywg-9s-Uto">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="x9f-Jy-AGi" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Account" image="icons8-musical-90" id="gAQ-pK-52a"/>
+                    <tabBarItem key="tabBarItem" title="Account" image="icons8-account-90" id="gAQ-pK-52a"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="TD5-Uh-a1h">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
@@ -145,6 +145,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="icons8-account-90" width="30" height="30"/>
         <image name="icons8-game-controller-90" width="30" height="30"/>
         <image name="icons8-heart-90" width="30" height="30"/>
         <image name="icons8-musical-90" width="30" height="30"/>
